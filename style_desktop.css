@@ -1,0 +1,27 @@
+section{
+    margin: 7rem 13rem;
+    padding: 3rem 5rem;
+}
+
+form{
+    width: 70%;
+    column-gap: 5vw;
+}
+
+p.reqd{
+    font-size: 15px;
+}
+
+input{
+    padding: 0.6rem 1.2rem;
+    border-radius: 10px;
+}
+
+#calculate{
+    justify-content: flex-start;
+    margin-left: 93%;
+}
+
+.result{
+    font-size: 72px;
+}
